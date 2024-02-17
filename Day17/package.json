@@ -1,0 +1,17 @@
+{
+  "name": "day17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Day17.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "mongoose": "^8.1.3",
+    "package-lock.json": "^1.0.0"
+  }
+}
